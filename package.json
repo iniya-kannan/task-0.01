@@ -1,0 +1,14 @@
+{
+  "name": "voicecloser",
+  "version": "1.0.0",
+  "description": "AI voice sales agent: real-time voice calls, live transcript, recording, AI summary and sales status.",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
